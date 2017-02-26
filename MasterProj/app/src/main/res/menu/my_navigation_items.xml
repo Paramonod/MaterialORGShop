@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Map"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="@string/MapView" />
+
+    <item
+        android:id="@+id/Shops"
+        android:icon="@drawable/ic_shopping_basket_black_24dp"
+        android:title="@string/ShopView" />
+    <item
+        android:id="@+id/Third"
+        android:icon="@drawable/ic_add"
+        android:title="@string/thirdView" />
+</menu>
